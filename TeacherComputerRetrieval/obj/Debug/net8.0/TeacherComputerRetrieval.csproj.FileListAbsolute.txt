@@ -1,0 +1,14 @@
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\bin\Debug\net8.0\TeacherComputerRetrieval.exe
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\bin\Debug\net8.0\TeacherComputerRetrieval.deps.json
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\bin\Debug\net8.0\TeacherComputerRetrieval.runtimeconfig.json
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\bin\Debug\net8.0\TeacherComputerRetrieval.dll
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\bin\Debug\net8.0\TeacherComputerRetrieval.pdb
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.AssemblyInfoInputs.cache
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.AssemblyInfo.cs
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.dll
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\refint\TeacherComputerRetrieval.dll
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.pdb
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\TeacherComputerRetrieval.genruntimeconfig.cache
+C:\Users\Eleojo\source\repos\TeacherComputerRetrieval\obj\Debug\net8.0\ref\TeacherComputerRetrieval.dll
